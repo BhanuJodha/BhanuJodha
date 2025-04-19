@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Bhanu</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working with **Skids Health**
+- 🔭 I’m currently working with **Xplor Technologies**
 
 - 🌱 I’m currently learning **Golang, gRPC**
 
