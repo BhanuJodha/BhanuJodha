@@ -9,10 +9,6 @@
 
 - 💬 Ask me about **GraphQL, Node.js, Serverless, Data Modeling**
 
-- 📫 How to reach me **bhanujodha3466@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/resume-bhanu](https://bit.ly/resume-bhanu)
-
 - 💽 I store assets in **DynamoDB, MongoDB, PostgreSQL**
 
 <h3 align="left">Connect with me:</h3>
