@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working with **Xplor Technologies**
 
-- 🌱 I’m currently learning **Golang, gRPC**
+- ☁️ Experienced cloud professional proficient in over **30+ major AWS services**
 
-- ☁️ Experienced cloud professional proficient in over **20+ AWS services**
+- 💬 Ask me about **Node.js, Python, Cloud Architecture, Microservices**
 
-- 💬 Ask me about **GraphQL, Node.js, Serverless, Data Modeling**
-
-- 💽 I store assets in **DynamoDB, MongoDB, PostgreSQL**
+- 💽 I store assets in **DynamoDB, PostgreSQL, MongoDB, Redis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
